@@ -89,8 +89,14 @@ Several enhancements can improve the model's accuracy and insights:
 5. Financial Stability Metrics: Computing the standard deviation of account balance over ```time (sigma(textBalance_i(t)))``` to quantify customer financial stability.
 
 ## How to Cite
-
-
+```
+@software{tanyaasharan2025customerbehavior,
+  author = {Babare, Shreya and Liu, Yupeng and Sharan, Tanya and Zhang, Jiaqi},
+  title = {Customer-Behavior-Segmentation-and-Prediction},
+  year = {2025},
+  url = {https://github.com/tanyaasharan/Customer-Behavior-Segmentation-and-Prediction}
+}
+```
 
 
 
